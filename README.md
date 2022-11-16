@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @themann87
-- ⚗  I’m a profesional C developer with a focus on networking
+- ⚗  I’m a professional C developer with a focus on networking
 - 👀 I’m interested in learning more about web dev
 - 🌱 I’m currently learning rust 
 - 💞️ I’m looking to collaborate on ... Really not sure atm
